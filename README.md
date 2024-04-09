@@ -1,1 +1,1 @@
-# Bullet-Board-and-Information-Management-System
+# Information Management and Message System
