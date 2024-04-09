@@ -2,7 +2,7 @@
 
 **Skills:** _HTML_, _PHP_, _MySQL_
 
-## Prerequisite
+## Prerequisites
 
 To run `PHP` scripts locally, we need to install `XAMPP` to provide a local host webserver that supports `PHP` and `MySQL`. After installation of `XAMPP`, place the web pages under `XAMPP > htdocs`.
 
