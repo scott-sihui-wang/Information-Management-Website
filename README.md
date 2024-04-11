@@ -8,7 +8,7 @@ To run `PHP` scripts locally, we need to install `XAMPP` to provide a local host
 
 ## Functionalities
 
-This is a simple information management website implemented by `PHP` and `MySQL`.
+This is a simple information management website whose `backend` was implemented by `PHP` and `MySQL`.
 
 One can sign up by registration of personal information. After creation of one's account, one can sign in and update one's information.
 
